@@ -1,0 +1,53 @@
+body{
+    font-family: arial;
+    background-color:teal;
+}
+
+h1{
+    font-size: xx-large;
+    font-family: Georgia;
+    text-align: center;
+    color: white;
+    text-shadow: 5px 5px 20px black;
+}
+
+section{
+    background-color: white;
+    margin: auto;
+    width: 500px;
+    height: auto;
+    box-shadow: 10px 7px 10px rgba(0, 0, 0, 0.603);
+    border-radius: 5px;;
+}
+select{
+    width: 150px;
+    height: auto;
+    background-color: cornsilk;
+}
+
+div{
+    padding-left: 25px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+div#foto{
+    text-align: center;
+}
+
+img{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+
+input#num{
+    border-radius: 5px;
+}
+
+footer{
+    font-size: large;
+    font-family: arial;
+    color: white;
+    text-align: center;
+}
